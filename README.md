@@ -20,6 +20,7 @@ Visual components and Python
 ![alt text](image.png)
 
 ## Program
+```py
 #Developed By: Shri Sai Aravind. R
 #Register No: 212223040197
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in sec
@@ -65,3 +66,4 @@ print("----------------------------------------------------------------------")
 ## Result
 The average number of material in the system and in the conveyor and waiting time are
 successfully found
+```
