@@ -60,10 +60,9 @@ if (lam < mu1) and (lam < mu2) and (lam < mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+```
 ## Output
 ![alt text](image-1.png)
 ## Result
 The average number of material in the system and in the conveyor and waiting time are
 successfully found
-```
