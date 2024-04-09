@@ -20,7 +20,6 @@ Visual components and Python
 ![alt text](image.png)
 
 ## Program
-```py
 #Developed By: Shri Sai Aravind. R
 #Register No: 212223040197
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in sec
@@ -60,7 +59,6 @@ if (lam < mu1) and (lam < mu2) and (lam < mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-```
 
 ## Output
 ![alt text](image-1.png)
